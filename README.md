@@ -1,2 +1,18 @@
 # Basic-C-Sharp-Projects:
- I will place all my C# projects here.
+ These are small C# and ASP.net projects I've worked on
+
+ACCOUNTING.cs
+
+Console.App.As.cs
+
+Program.cs
+
+branching.cs
+
+integer.cs
+
+methodclass.cs
+
+operators.cs
+
+polymorph.cs
