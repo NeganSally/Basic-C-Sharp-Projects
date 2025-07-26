@@ -1,18 +1,20 @@
 # Basic-C-Sharp-Projects:
  These are small C# and ASP.net projects I've worked on
 
-ACCOUNTING.cs
+6part.cs (loops, conditionals, collections, and user input)
 
-Console.App.As.cs
+ACCOUNTING.cs (simple console application that prints a welcome message)
 
-Program.cs
+Console.App.As.cs (basic arithmetic operations, user input, type conversion, and Console output in C#)
 
-branching.cs
+Program.cs (Entity Framework Code-First console app that initializes a DbContext with Student and Grade tables, adds new students, deletes students with specific IDs and lists all students in the database.)
 
-integer.cs
+branching.cs (Greets the user, takes input for weight, width, height, and length. Displays the result as a formatted dollar amount and calculates quote with formula.)
 
-methodclass.cs
+integer.cs (User input with try catch blocks, division output, loop until valid input which keeps the user from crashing it with a typo)
 
-operators.cs
+methodclass.cs (class with a method that takes parameters)
 
-polymorph.cs
+operators.cs (Class design, operator overloading (==, !=), null checks, Overriding Equals() and GetHashCode())
+
+polymorph.cs (assigning Employee object to an IQuittable reference, Interface implementation (IQuittable), Class using an interface)
